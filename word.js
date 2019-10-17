@@ -1,0 +1,2 @@
+var words = function() {
+}
